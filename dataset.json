@@ -1,0 +1,22 @@
+{
+  "base_price": 2495,
+  "beamstation_catalog_url": "https://beamstation.com/datasets",
+  "beamstation_origin": "https://beamstation.com",
+  "category_group_name": "Restaurants",
+  "config_category": "social",
+  "config_description": "Marketing Agency Gold. High-rated restaurants (>4.5 rating) with low to zero social presence (<100 followers OR no social profiles) for social media marketing. Great product, terrible distribution -> Pitch them Growth.",
+  "config_name": "Restaurant Social Ghosts in Connecticut, US",
+  "export_job_id": "89c7358e-41bd-4485-9fdf-989f8bf0ccf3",
+  "github_org": "Beamstation-Datasets",
+  "id_short": 353951,
+  "location_name": "Connecticut",
+  "location_type": "state",
+  "repo_name": "restaurant-social-ghosts-in-connecticut-us-sample-353951",
+  "sample_b2_path": "b2-export:BeamStation-ExportFiles/353951/beamstation_353951_restaurants-us-ct_SAMPLE_DIST.csv",
+  "sample_pct": 9.59,
+  "sample_records": 14,
+  "sample_sha256": "dcb44658d204edfb40285b6096cc80f1c77eed4312358ccc42750c06bb2fe84e",
+  "sample_size_bytes": 65981,
+  "total_records": 146,
+  "updated_at": "2026-04-08T08:00:19.181989+00:00"
+}

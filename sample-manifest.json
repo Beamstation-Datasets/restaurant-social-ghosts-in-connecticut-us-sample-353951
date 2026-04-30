@@ -1,12 +1,12 @@
 {
-  "export_job_id": "06ef37d9-6adb-4944-b60c-78e4e9eabcda",
+  "export_job_id": "bffd9667-3699-4780-8d5c-0ef1504b71c8",
   "id_short": 353951,
-  "published_at": "2026-04-23T07:32:36Z",
+  "published_at": "2026-04-30T07:44:38Z",
   "repo_name": "restaurant-social-ghosts-in-connecticut-us-sample-353951",
   "sample_asset_name": "beamstation_353951_restaurants-us-ct_SAMPLE_DIST.csv",
   "sample_b2_path": "b2-export:BeamStation-ExportFiles/353951/beamstation_353951_restaurants-us-ct_SAMPLE_DIST.csv",
-  "sample_records": 4,
-  "sample_sha256": "5eae2f55ca9e795b2139682453071ebe34404a42fb855c00104c672e10d71b9c",
-  "sample_size_bytes": 31217,
-  "total_records": 41
+  "sample_records": 6,
+  "sample_sha256": "060485e1019715cf62e42a458ee5cad81f052ed68562d2be3b996c26866d5fac",
+  "sample_size_bytes": 39172,
+  "total_records": 67
 }
